@@ -26,7 +26,7 @@ header > img {
     grid-area: conteudo;
 }
 
-body {
+.body {
     display: grid;
     height: 100vh;
     grid-template-columns: 15% 1fr;
